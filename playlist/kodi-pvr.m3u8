@@ -8,7 +8,7 @@ http://92.114.85.81:8000/play/a00y/index.m3u8
 #EXTINF:-1 tvg-chno="4" tvg-name="Channel 4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Channel_4_%28On_Demand%29_2023.svg/569px-Channel_4_%28On_Demand%29_2023.svg.png" tvg-id="Channel4.uk" group-title="UK",Channel 4 GB
 http://92.114.85.77:8000/play/a0b9
 #EXTINF:-1 tvg-chno="6" tvg-name="S4C Ⓖ" tvg-logo="https://i.imgur.com/vrcbnBv.png" tvg-id="S4C.uk" group-title="UK",S4C Wales
-http://127.0.0.1:6878/ace/manifest.m3u8?4770e29f80797cf43f475b535d0490f5a500ce23&hlc=1&transcode_audio=0&transcode_mp3=1&transcode_ac3=1
+http://127.0.0.1:6878/ace/manifest.m3u8?id=4770e29f80797cf43f475b535d0490f5a500ce23&hlc=1&transcode_audio=0&transcode_mp3=1&transcode_ac3=1
 #EXTINF:-1 tvg-chno="5" tvg-name="Channel 5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Channel_5_%28UK%29_2016.svg/530px-Channel_5_%28UK%29_2016.svg.png" tvg-id="Channel5.uk" group-title="UK",Channel 5 GB
 http://92.114.85.81:8000/play/a01g/index.m3u8
 #EXTINF:-1 tvg-name="TG4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TG4_logo.svg/1024px-TG4_logo.svg.png" tvg-id="TG4.ie" group-title="Ireland",TG4 Ireland
