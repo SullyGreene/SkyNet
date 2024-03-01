@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="BBCOne.uk"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png"group-title="General":http-referrer="":http-user-agent="",BBC One 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+#EXTINF:-1 tvg-chno="1" tvg-id="BBCOne.uk"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png"group-title="General":http-referrer="":http-user-agent="",BBC One England
 https://raw.githubusercontent.com/SullyGreene/SkyNet/main/channels/C/001/BBC1iplayer.m3u
-#EXTINF:-1 tvg-chno="2" tvg-id="BBCTwoEngland.uk"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png"group-title="Undefined":http-referrer="":http-user-agent="",BBC Two 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+#EXTINF:-1 tvg-chno="2" tvg-id="BBCTwoEngland.uk"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png"group-title="Undefined":http-referrer="":http-user-agent="",BBC Two England
 plugin://plugin.video.iplayerwww/?url=bbc_two_england&mode=203&name=BBC+Two&iconimage=resource%3A%2F%2Fresource.images.iplayerwww%2Fmedia%2Fbbc_two_england.png&description=&subtitles_url=&time=1709158761.7293212
-#EXTINF:-1 tvg-chno="3" tvg-name="ITV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/640px-ITV1_logo_%282022%29.svg.png" tvg-id="ITV1.uk" group-title="UK",ITV 1 🇬🇧
+#EXTINF:-1 tvg-chno="3" tvg-name="ITV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/640px-ITV1_logo_%282022%29.svg.png" tvg-id="ITV1.uk" group-title="UK",ITV 1 GB
 http://92.114.85.81:8000/play/a00y/index.m3u8
-#EXTINF:-1 tvg-chno="4" tvg-name="Channel 4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Channel_4_%28On_Demand%29_2023.svg/569px-Channel_4_%28On_Demand%29_2023.svg.png" tvg-id="Channel4.uk" group-title="UK",Channel 4 🇬🇧
+#EXTINF:-1 tvg-chno="4" tvg-name="Channel 4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Channel_4_%28On_Demand%29_2023.svg/569px-Channel_4_%28On_Demand%29_2023.svg.png" tvg-id="Channel4.uk" group-title="UK",Channel 4 GB
 http://92.114.85.77:8000/play/a0b9
-#EXTINF:-1 tvg-chno="6" tvg-name="S4C Ⓖ" tvg-logo="https://i.imgur.com/vrcbnBv.png" tvg-id="S4C.uk" group-title="UK",S4C Ⓖ 🏴󠁧󠁢󠁷󠁬󠁳󠁿
-https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3u8
-#EXTINF:-1 tvg-chno="5" tvg-name="Channel 5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Channel_5_%28UK%29_2016.svg/530px-Channel_5_%28UK%29_2016.svg.png" tvg-id="Channel5.uk" group-title="UK",Channel 5
+#EXTINF:-1 tvg-chno="6" tvg-name="S4C Ⓖ" tvg-logo="https://i.imgur.com/vrcbnBv.png" tvg-id="S4C.uk" group-title="UK",S4C Wales
+http://127.0.0.1:6878/ace/manifest.m3u8?4770e29f80797cf43f475b535d0490f5a500ce23&hlc=1&transcode_audio=0&transcode_mp3=1&transcode_ac3=1
+#EXTINF:-1 tvg-chno="5" tvg-name="Channel 5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Channel_5_%28UK%29_2016.svg/530px-Channel_5_%28UK%29_2016.svg.png" tvg-id="Channel5.uk" group-title="UK",Channel 5 GB
 http://92.114.85.81:8000/play/a01g/index.m3u8
-#EXTINF:-1 tvg-name="TG4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TG4_logo.svg/1024px-TG4_logo.svg.png" tvg-id="TG4.ie" group-title="Ireland",TG4 🇮🇪
+#EXTINF:-1 tvg-name="TG4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TG4_logo.svg/1024px-TG4_logo.svg.png" tvg-id="TG4.ie" group-title="Ireland",TG4 Ireland
 https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national.m3u8
-#EXTINF:-1 tvg-name="Houses of the Oireachtas Channel" tvg-logo="https://i.imgur.com/aC4fsCI.png" tvg-id="OireachtasTV.ie" group-title="Ireland",Houses of the Oireachtas Channel 🇮🇪
+#EXTINF:-1 tvg-name="Houses of the Oireachtas Channel" tvg-logo="https://i.imgur.com/aC4fsCI.png" tvg-id="OireachtasTV.ie" group-title="Ireland",Houses of the Oireachtas Channel Ireland
 https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8
 #EXTINF:-1 tvg-name="ITV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/ITV2_logo_2022.svg/640px-ITV2_logo_2022.svg.png" tvg-id="ITV2.uk" group-title="UK",ITV 2
 http://92.114.85.77:8000/play/a041
@@ -49,6 +49,8 @@ http://92.114.85.81:8000/play/a01a/index.m3u8
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
 #EXTINF:-1 tvg-name="BBC Three" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/640px-BBC_Three_2022.svg.png" tvg-id="BBCThree.uk" group-title="UK",BBC Three
 http://92.114.85.81:8000/play/a017/index.m3u8
+#EXTINF:-1 tvg-name="BBC Earth HD 🇵🇱" group-title="regional",BBC Earth Poland ⩈
+http://127.0.0.1:6878/ace/manifest.m3u8?id=59f05ddddf845c24d72c9b27ec45b02e3778c016&hlc=1&transcode_audio=0&transcode_mp3=1&transcode_ac3=1&preferred_audio_language=eng
 #EXTINF:-1 tvg-name="W Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/W_%28UKTV%29_2022.svg/640px-W_%28UKTV%29_2022.svg.png" tvg-id="W.uk" group-title="UK",W Ⓢ
 http://92.114.85.81:8000/play/a03x/index.m3u8
 #EXTINF:-1 tvg-name="ITV 4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ITV4_logo_%282022%29.svg/640px-ITV4_logo_%282022%29.svg.png" tvg-id="ITV4.uk" group-title="UK",ITV 4
