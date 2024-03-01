@@ -7,7 +7,7 @@ plugin://plugin.video.iplayerwww/?url=bbc_two_england&mode=203&name=BBC+Two&icon
 http://92.114.85.81:8000/play/a00y/index.m3u8
 #EXTINF:-1 tvg-chno="4" tvg-name="Channel 4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Channel_4_%28On_Demand%29_2023.svg/569px-Channel_4_%28On_Demand%29_2023.svg.png" tvg-id="Channel4.uk" group-title="UK",Channel 4 🇬🇧
 http://92.114.85.77:8000/play/a0b9
-#EXTINF:-1 tvg-chno="006" tvg-name="S4C Ⓖ" tvg-logo="https://i.imgur.com/vrcbnBv.png" tvg-id="S4C.uk" group-title="UK",S4C Ⓖ 🏴󠁧󠁢󠁷󠁬󠁳󠁿
+#EXTINF:-1 tvg-chno="6" tvg-name="S4C Ⓖ" tvg-logo="https://i.imgur.com/vrcbnBv.png" tvg-id="S4C.uk" group-title="UK",S4C Ⓖ 🏴󠁧󠁢󠁷󠁬󠁳󠁿
 https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3u8
 #EXTINF:-1 tvg-chno="5" tvg-name="Channel 5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Channel_5_%28UK%29_2016.svg/530px-Channel_5_%28UK%29_2016.svg.png" tvg-id="Channel5.uk" group-title="UK",Channel 5
 http://92.114.85.81:8000/play/a01g/index.m3u8
@@ -215,7 +215,6 @@ http://as-hls-uk-live.akamaized.net/pool_904/live/uk/bbc_radio_five_live_sports_
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_asian_network/bbc_asian_network.isml/bbc_asian_network-audio%3d96000.norewind.m3u8
 #EXTINF:-1 tvg-name="BBC World Service" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcws-epg.png" tvg-id="BBCRadioWorldService.uk" group-title="UK",BBC World Service
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8
-
 #EXTINF:-1 tvg-id="2GB.au"tvg-logo="https://i.ibb.co/jwM8DFG/2GB-1.png"group-title="News":http-referrer="":http-user-agent="",2GB Sydney (1080p)
 https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
 #EXTINF:-1 tvg-id="3ABNProclaimNetwork.us"tvg-logo="https://i.imgur.com/VoC9vr1.png"group-title="Religious":http-referrer="":http-user-agent="",3ABN Proclaim! Network (720p)
