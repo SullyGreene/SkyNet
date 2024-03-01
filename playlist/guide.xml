@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv>
-        <source-info url="https://xmltv.tvkaista.net/guides/default.xml"/>
+    <source-info>
         <source-info url="https://xmltv.tvkaista.net/guides/abc.net.au.xml"/>
         <source-info url="https://xmltv.tvkaista.net/guides/allente.dk.xml"/>
         <source-info url="https://xmltv.tvkaista.net/guides/allente.fi.xml"/>
@@ -281,4 +281,5 @@
         <source-info url="https://xmltv.tvkaista.net/guides/ziggogo.tv.xml"/>
         <source-info url="https://xmltv.tvkaista.net/guides/znbc.co.zm.xml"/>
         <source-info url="https://xmltv.tvkaista.net/guides/zuragt.mn.xml"/>
+    </sources>
 </tv>
