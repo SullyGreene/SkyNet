@@ -1,6 +1,966 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv>
+<channel id="4Music.uk">
+    <display-name lang="en">4Music</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/4-music-uk.png"></icon>
+  </channel>
+  <channel id="4seven.uk">
+    <display-name lang="en">4Seven</display-name>
+    <icon src="https://i.imgur.com/Fpaxyop.png"></icon>
+  </channel>
+  <channel id="5Action.uk">
+    <display-name lang="en">5Action</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/5-action-uk.png"></icon>
+  </channel>
+  <channel id="5Select.uk">
+    <display-name lang="en">5Select</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/5-select-uk.png"></icon>
+  </channel>
+  <channel id="5Star.uk">
+    <display-name lang="en">5Star</display-name>
+    <icon src="https://i.imgur.com/PI11s9s.png"></icon>
+  </channel>
+  <channel id="5StarPlus1.uk">
+    <display-name lang="en">5STAR+1</display-name>
+    <icon src="https://i.imgur.com/fzqtSNm.png"></icon>
+  </channel>
+  <channel id="5USA.uk">
+    <display-name lang="en">5USA</display-name>
+    <icon src="https://i.imgur.com/Pi7so2l.png"></icon>
+  </channel>
+  <channel id="5USAPlus1.uk">
+    <display-name lang="en">5USA+1</display-name>
+    <icon src="https://i.imgur.com/hBx6T5t.png"></icon>
+  </channel>
+  <channel id="AlArabiya.uk">
+    <display-name lang="en">AL ARABIYA</display-name>
+    <icon src="https://i.imgur.com/NXFkYFj.png"></icon>
+  </channel>
+  <channel id="AlJazeeraArabic.qa">
+    <display-name lang="ar-ae">Al Jazeera Arabic</display-name>
+    <icon src="https://i.imgur.com/7bRVpnu.png"></icon>
+  </channel>
+  <channel id="AlJazeeraEnglish.qa">
+    <display-name lang="en">Al Jazeera</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png"></icon>
+  </channel>
+  <channel id="ArirangWorld.kr">
+    <display-name lang="en">Arirang World</display-name>
+    <icon src="https://i.imgur.com/Asu5pE9.png"></icon>
+  </channel>
+  <channel id="AriseNews.uk">
+    <display-name lang="en">Arise News</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/.Light/Arise%20News.png"></icon>
+  </channel>
+  <channel id="AsharqNews.uk">
+    <display-name lang="en">Asharq News</display-name>
+    <icon src="https://i.imgur.com/bqRC3sl.png"></icon>
+  </channel>
+  <channel id="BBCAlba.uk">
+    <display-name lang="en">BBC Alba</display-name>
+    <icon src="https://i.imgur.com/36KDxLg.png"></icon>
+  </channel>
+  <channel id="BBCFourHD.uk">
+    <display-name lang="en">BBC Four HD</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/512px-BBC_Four_logo_2021.svg.png"></icon>
+  </channel>
+  <channel id="BBCNews.uk">
+    <display-name lang="en">BBC News</display-name>
+    <icon src="https://i.imgur.com/vSz2WEp.png"></icon>
+  </channel>
+  <channel id="BBCOneChannelIslands.uk">
+    <display-name lang="en">BBC One Channel Islands HD</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png"></icon>
+  </channel>
+  <channel id="BBCOneEast.uk">
+    <display-name lang="en">BBC One East HD</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png"></icon>
+  </channel>
+  <channel id="BBCOneEastMidlands.uk">
+    <display-name lang="en">BBC One East Midlands HD</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png"></icon>
+  </channel>
+  <channel id="BBCOneLondonHD.uk">
+    <display-name lang="en">BBC One London HD</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png"></icon>
+  </channel>
+  <channel id="BBCOneNorthEastCumbria.uk">
+    <display-name lang="en">BBC One North East HD</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png"></icon>
+  </channel>
+  <channel id="BBCOneNorthWest.uk">
+    <display-name lang="en">BBC One North West HD</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png"></icon>
+  </channel>
+  <channel id="BBCOneNorthernIreland.uk">
+    <display-name lang="en">BBC One NI HD</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png"></icon>
+  </channel>
+  <channel id="BBCOneScotHD.uk">
+    <display-name lang="en">BBC One Scotland HD</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png"></icon>
+  </channel>
+  <channel id="BBCOneSouth.uk">
+    <display-name lang="en">BBC One South HD</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png"></icon>
+  </channel>
+  <channel id="BBCOneSouthEast.uk">
+    <display-name lang="en">BBC One South East HD</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png"></icon>
+  </channel>
+  <channel id="BBCOneSouthWest.uk">
+    <display-name lang="en">BBC One South West HD</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png"></icon>
+  </channel>
+  <channel id="BBCOneWalesHD.uk">
+    <display-name lang="en">BBC One Wales HD</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png"></icon>
+  </channel>
+  <channel id="BBCOneWest.uk">
+    <display-name lang="en">BBC One West HD</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png"></icon>
+  </channel>
+  <channel id="BBCOneWestMidlands.uk">
+    <display-name lang="en">BBC One West Midlands HD</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png"></icon>
+  </channel>
+  <channel id="BBCOneYorksLincs.uk">
+    <display-name lang="en">BBC One Yorks &amp; Lincs HD</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png"></icon>
+  </channel>
+  <channel id="BBCOneYorkshire.uk">
+    <display-name lang="en">BBC One Yorkshire HD</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png"></icon>
+  </channel>
+  <channel id="BBCParliament.uk">
+    <display-name lang="en">BBC Parliament</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-parliament-uk.png"></icon>
+  </channel>
+  <channel id="BBCRedButton1.uk">
+    <display-name lang="en">BBC Red Button 1</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-red-button-uk.png"></icon>
+  </channel>
+  <channel id="BBCScotland.uk">
+    <display-name lang="en">BBC Scotland</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/BBC_Scotland_2021_%28channel%29.svg/512px-BBC_Scotland_2021_%28channel%29.svg.png"></icon>
+  </channel>
+  <channel id="BBCThreeHD.uk">
+    <display-name lang="en">BBC Three HD</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/512px-BBC_Three_2022.svg.png"></icon>
+  </channel>
+  <channel id="BBCTwoEngland.uk">
+    <display-name lang="en">BBC Two</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png"></icon>
+  </channel>
+  <channel id="BBCTwoHD.uk">
+    <display-name lang="en">BBC Two HD</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png"></icon>
+  </channel>
+  <channel id="BBCTwoNorthernIreland.uk">
+    <display-name lang="en">BBC Two NI</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png"></icon>
+  </channel>
+  <channel id="BBCTwoWales.uk">
+    <display-name lang="en">BBC Two Wales</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png"></icon>
+  </channel>
+  <channel id="Blaze.uk">
+    <display-name lang="en">Blaze UK</display-name>
+    <icon src="https://i.imgur.com/6UcPWP9.png"></icon>
+  </channel>
+  <channel id="BloombergTVEurope.uk">
+    <display-name lang="en">Bloomberg HD</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Bloomberg-TV-HD.png"></icon>
+  </channel>
+  <channel id="CBBC.uk">
+    <display-name lang="en">CBBC</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-cbbc-uk.png"></icon>
+  </channel>
+  <channel id="CBeebies.uk">
+    <display-name lang="en">CBeebies</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-cbeebies-uk.png"></icon>
+  </channel>
+  <channel id="Challenge.uk">
+    <display-name lang="en">Challenge UK</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/challenge-uk.png"></icon>
+  </channel>
+  <channel id="Channel4.uk">
+    <display-name lang="en">Channel 4</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-4-uk.png"></icon>
+  </channel>
+  <channel id="Channel4Plus1.uk">
+    <display-name lang="en">Channel 4+1</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-4-plus-uk.png"></icon>
+  </channel>
+  <channel id="Channel5.uk">
+    <display-name lang="en">Channel 5</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-5-uk.png"></icon>
+  </channel>
+  <channel id="Channel5Plus1.uk">
+    <display-name lang="en">Channel 5+1</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-5-plus-uk.png"></icon>
+  </channel>
+  <channel id="Channels24.ng">
+    <display-name lang="en">Channels 24</display-name>
+    <icon src="https://i.imgur.com/ww5zNmY.png"></icon>
+  </channel>
+  <channel id="ClublandTV.uk">
+    <display-name lang="en">Clubland TV</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/clubland-uk.png"></icon>
+  </channel>
+  <channel id="CNBCEurope.uk">
+    <display-name lang="en">CNBC UK</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/CNBC.png"></icon>
+  </channel>
+  <channel id="CNNInternational.uk">
+    <display-name lang="en">CNN International</display-name>
+    <icon src="https://i.imgur.com/05S3yYZ.png"></icon>
+  </channel>
+  <channel id="CourtTV.uk">
+    <display-name lang="en">Court TV</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Court-TV.png"></icon>
+  </channel>
+  <channel id="CraftExtra.uk">
+    <display-name lang="en">Craft Extra</display-name>
+    <icon src="https://i.imgur.com/9nTFPK3.png"></icon>
+  </channel>
+  <channel id="CreateandCraft.uk">
+    <display-name lang="en">Create and Craft</display-name>
+    <icon src="https://i.imgur.com/n65sk4L.png"></icon>
+  </channel>
+  <channel id="Dave.uk">
+    <display-name lang="en">Dave UK</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/dave-uk.png"></icon>
+  </channel>
+  <channel id="Davejavu.uk">
+    <display-name lang="en">Dave ja vu</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/dave-ja-vu-uk.png"></icon>
+  </channel>
+  <channel id="DMAXUK.uk">
+    <display-name lang="en">DMAX</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/dmax-uk.png"></icon>
+  </channel>
+  <channel id="DMAXUKPlus1.uk">
+    <display-name lang="en">DMAX+1</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/dmax-plus-uk.png"></icon>
+  </channel>
+  <channel id="Drama.uk">
+    <display-name lang="en">Drama</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/drama-uk.png"></icon>
+  </channel>
+  <channel id="DramaPlus1.uk">
+    <display-name lang="en">Drama+1</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/drama-plus-uk.png"></icon>
+  </channel>
+  <channel id="E4.uk">
+    <display-name lang="en">E4</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/e-4-uk.png"></icon>
+  </channel>
+  <channel id="E4Extra.uk">
+    <display-name lang="en">E4 Extra</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/e-4-extra-uk.png"></icon>
+  </channel>
+  <channel id="E4Plus1.uk">
+    <display-name lang="en">E4 UK+1</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/e-4-plus-uk.png"></icon>
+  </channel>
+  <channel id="EarthxTV.us">
+    <display-name lang="en">EarthxTV HD</display-name>
+    <icon src="https://i.imgur.com/ZWWqiCb.png"></icon>
+  </channel>
+  <channel id="EuronewsEnglish.fr">
+    <display-name lang="en">Euronews</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Euronews.png"></icon>
+  </channel>
+  <channel id="Film4.uk">
+    <display-name lang="en">Film4</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/film-4-uk.png"></icon>
+  </channel>
+  <channel id="Film4Plus1.uk">
+    <display-name lang="en">Film 4+1</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/film-4-plus-uk.png"></icon>
+  </channel>
+  <channel id="FoodNetworkUK.uk">
+    <display-name lang="en">Food Network</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/food-network-uk.png"></icon>
+  </channel>
+  <channel id="FoodNetworkUKPlus1.uk">
+    <display-name lang="en">Food Network+1</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/food-network-plus-uk.png"></icon>
+  </channel>
+  <channel id="Foodxp.uk">
+    <display-name lang="en">Foodxp</display-name>
+    <icon src="https://i.imgur.com/zOWog5j.png"></icon>
+  </channel>
+  <channel id="France24English.fr">
+    <display-name lang="en">France 24 English</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png"></icon>
+  </channel>
+  <channel id="GBNews.uk">
+    <display-name lang="en">GB News</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/gb-news-uk.png"></icon>
+  </channel>
+  <channel id="GemsTV.uk">
+    <display-name lang="en">Gemporia TV</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/gemporia-uk.png"></icon>
+  </channel>
+  <channel id="GreatMovies.uk">
+    <display-name lang="en">GREAT! Movies</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-movies-hz-uk.png"></icon>
+  </channel>
+  <channel id="GreatMoviesAction.uk">
+    <display-name lang="en">GREAT! action</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-action-hz-uk.png"></icon>
+  </channel>
+  <channel id="GreatMoviesActionPlus1.uk">
+    <display-name lang="en">GREAT! action+1</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-action-plus-hz-uk.png"></icon>
+  </channel>
+  <channel id="GreatMoviesPlus1.uk">
+    <display-name lang="en">GREAT! movies+1</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-movies-plus-hz-uk.png"></icon>
+  </channel>
+  <channel id="GreatMoviesRomance.uk">
+    <display-name lang="en">GREAT! Romance</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-romance-hz-uk.png"></icon>
+  </channel>
+  <channel id="GreatTV.uk">
+    <display-name lang="en">GREAT! tv</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-tv-hz-uk.png"></icon>
+  </channel>
+  <channel id="GreatTVPlus1.uk">
+    <display-name lang="en">GREAT! tv+1</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-tv-plus-hz-uk.png"></icon>
+  </channel>
+  <channel id="HGTVUK.uk">
+    <display-name lang="en">HGTV</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/hgtv-uk.png"></icon>
+  </channel>
+  <channel id="HGTVUKPlus1.uk">
+    <display-name lang="en">HGTV+1</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/hgtv-plus-uk.png"></icon>
+  </channel>
+  <channel id="HobbyMaker.uk">
+    <display-name lang="en">Hobby Maker</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/HobbyMaker.png"></icon>
+  </channel>
+  <channel id="IdealWorld.uk">
+    <display-name lang="en">Ideal World</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Ideal-World-2023.png"></icon>
+  </channel>
+  <channel id="IndiaToday.in">
+    <display-name lang="en">India Today</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/india-today-in.png"></icon>
+  </channel>
+  <channel id="ITV1Anglia.uk">
+    <display-name lang="en">ITV1 Anglia</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png"></icon>
+  </channel>
+  <channel id="ITV1AngliaWest.uk">
+    <display-name lang="en">ITV1 Anglia (West)</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png"></icon>
+  </channel>
+  <channel id="ITV1Border.uk">
+    <display-name lang="en">ITV1 Border</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png"></icon>
+  </channel>
+  <channel id="ITV1CentralE.uk">
+    <display-name lang="en">ITV1 Central (East)</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png"></icon>
+  </channel>
+  <channel id="ITV1CentralW.uk">
+    <display-name lang="en">ITV1 Central (West)</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png"></icon>
+  </channel>
+  <channel id="ITV1London.uk">
+    <display-name lang="en">ITV1 London</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png"></icon>
+  </channel>
+  <channel id="ITV1MeridianE.uk">
+    <display-name lang="en">ITV1 Meridian (East)</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png"></icon>
+  </channel>
+  <channel id="ITV1MeridianN.uk">
+    <display-name lang="en">ITV1 Meridian (North)</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png"></icon>
+  </channel>
+  <channel id="ITV1MeridianS.uk">
+    <display-name lang="en">ITV1 Meridian (South)</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png"></icon>
+  </channel>
+  <channel id="ITV1North.uk">
+    <display-name lang="en">ITV1 North</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png"></icon>
+  </channel>
+  <channel id="ITV1Plus1Granada.uk">
+    <display-name lang="en">ITV+1 Granada</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png"></icon>
+  </channel>
+  <channel id="ITV1Plus1London.uk">
+    <display-name lang="en">ITV+1 London</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png"></icon>
+  </channel>
+  <channel id="ITV1Plus1Meridian.uk">
+    <display-name lang="en">ITV+1 Meridian</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png"></icon>
+  </channel>
+  <channel id="ITV1Plus1Midlands.uk">
+    <display-name lang="en">ITV+1 Midlands</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png"></icon>
+  </channel>
+  <channel id="ITV1TyneTees.uk">
+    <display-name lang="en">ITV1 Tyne Tees</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png"></icon>
+  </channel>
+  <channel id="ITV1Wales.uk">
+    <display-name lang="en">ITV1 Wales</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png"></icon>
+  </channel>
+  <channel id="ITV1West.uk">
+    <display-name lang="en">ITV1 West</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png"></icon>
+  </channel>
+  <channel id="ITV1WestCountry.uk">
+    <display-name lang="en">ITV1 West Country</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png"></icon>
+  </channel>
+  <channel id="ITV1YorkshireEast.uk">
+    <display-name lang="en">ITV1 Yorkshire (East)</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png"></icon>
+  </channel>
+  <channel id="ITV1YorkshireWest.uk">
+    <display-name lang="en">ITV1 Yorkshire</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png"></icon>
+  </channel>
+  <channel id="ITV2.uk">
+    <display-name lang="en">ITV2</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-2-uk.png"></icon>
+  </channel>
+  <channel id="ITV2Plus1.uk">
+    <display-name lang="en">ITV2+1</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-2-plus-uk.png"></icon>
+  </channel>
+  <channel id="ITV3.uk">
+    <display-name lang="en">ITV3</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-3-uk.png"></icon>
+  </channel>
+  <channel id="ITV3Plus1.uk">
+    <display-name lang="en">ITV3+1</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-3-plus-uk.png"></icon>
+  </channel>
+  <channel id="ITV4.uk">
+    <display-name lang="en">ITV4</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-4-uk.png"></icon>
+  </channel>
+  <channel id="ITV4Plus1.uk">
+    <display-name lang="en">ITV4+1</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-4-plus-uk.png"></icon>
+  </channel>
+  <channel id="ITVBe.uk">
+    <display-name lang="en">ITVBe</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-be-uk.png"></icon>
+  </channel>
+  <channel id="ITVBePlus1.uk">
+    <display-name lang="en">ITVBe+1</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-be-plus-uk.png"></icon>
+  </channel>
+  <channel id="JewelleryMaker.uk">
+    <display-name lang="en">Jewellery Maker</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/jewellery-maker-uk.png"></icon>
+  </channel>
+  <channel id="Kerrang.uk">
+    <display-name lang="en">Kerrang!</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/kerrang-tv-uk.png"></icon>
+  </channel>
+  <channel id="KissTVUK.uk">
+    <display-name lang="en">Kiss TV</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/kiss-tv-uk.png"></icon>
+  </channel>
+  <channel id="Legend.uk">
+    <display-name lang="en">Legend</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Legend.png"></icon>
+  </channel>
+  <channel id="LegendXtra.uk">
+    <display-name lang="en">Legend Xtra</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Legend-Xtra.png"></icon>
+  </channel>
+  <channel id="LegendXtraPlus1.uk">
+    <display-name lang="en">Legend Xtra+1</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Legend-Xtra-%2B1.png"></icon>
+  </channel>
+  <channel id="LondonLive.uk">
+    <display-name lang="en">London Live</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/london-live-uk.png"></icon>
+  </channel>
+  <channel id="Magic.uk">
+    <display-name lang="en">Magic</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/magic-tv-uk.png"></icon>
+  </channel>
+  <channel id="More4.uk">
+    <display-name lang="en">More4</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/4-more-uk.png"></icon>
+  </channel>
+  <channel id="More4Plus1.uk">
+    <display-name lang="en">More4+1</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/4-more-plus-uk.png"></icon>
+  </channel>
+  <channel id="Movies24.uk">
+    <display-name lang="en">Movies24</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/movies-24-uk.png"></icon>
+  </channel>
+  <channel id="Movies24Plus.uk">
+    <display-name lang="en">Movies24+</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/movies-24-plus-uk.png"></icon>
+  </channel>
+  <channel id="NDTV24x7.in">
+    <display-name lang="en">NDTV 24x7</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/.Light/NDTV%2024x7.png"></icon>
+  </channel>
+  <channel id="NewsmaxTV.uk">
+    <display-name lang="en">Newsmax</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/512px-Newsmax_logo.svg.png"></icon>
+  </channel>
+  <channel id="NHKWorldJapan.jp">
+    <display-name lang="en">NHK World HD</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png"></icon>
+  </channel>
+  <channel id="Now70s.uk">
+    <display-name lang="en">Now 70's</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/now-70s-uk.png"></icon>
+  </channel>
+  <channel id="Now80s.uk">
+    <display-name lang="en">Now 80's</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/now-80s-uk.png"></icon>
+  </channel>
+  <channel id="Now90s.uk">
+    <display-name lang="en">Now 90's</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/now-90s-uk.png"></icon>
+  </channel>
+  <channel id="PBSAmerica.uk">
+    <display-name lang="en">PBS America</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/pbs-america-uk.png"></icon>
+  </channel>
+  <channel id="Pop.uk">
+    <display-name lang="en">Pop</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/pop-uk.png"></icon>
+  </channel>
+  <channel id="PopMax.uk">
+    <display-name lang="en">Pop Max</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/pop-max-uk.png"></icon>
+  </channel>
+  <channel id="PopMaxPlus1.uk">
+    <display-name lang="en">POP Max+1</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/pop-max-plus-uk.png"></icon>
+  </channel>
+  <channel id="PopPlus1.uk">
+    <display-name lang="en">POP+1</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/pop-plus-uk.png"></icon>
+  </channel>
+  <channel id="QVCBeautyUK.uk">
+    <display-name lang="en">QVC Beauty</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/qvc-beauty-uk.png"></icon>
+  </channel>
+  <channel id="QVCExtraUK.uk">
+    <display-name lang="en">QVC Extra</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/qvc-extra-uk.png"></icon>
+  </channel>
+  <channel id="QVCStyleUK.uk">
+    <display-name lang="en">QVC Style UK</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/qvc-style-uk.png"></icon>
+  </channel>
+  <channel id="QVCUK.uk">
+    <display-name lang="en">QVC UK</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/qvc-uk.png"></icon>
+  </channel>
+  <channel id="QuestRedUK.uk">
+    <display-name lang="en">Quest Red</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/quest-red-hz-uk.png"></icon>
+  </channel>
+  <channel id="QuestRedUKPlus1.uk">
+    <display-name lang="en">Quest Red UK+1</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/quest-red-plus-hz-uk.png"></icon>
+  </channel>
+  <channel id="QuestUK.uk">
+    <display-name lang="en">Quest</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/quest-uk.png"></icon>
+  </channel>
+  <channel id="QuestUKPlus1.uk">
+    <display-name lang="en">QUEST+1</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/quest-plus-uk.png"></icon>
+  </channel>
+  <channel id="RTE2.ie">
+    <display-name lang="en">RTÉ2</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/rte-2-uk.png"></icon>
+  </channel>
+  <channel id="RTE2Plus1.ie">
+    <display-name lang="en">RTÉ2+1</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/rte-2-plus-uk.png"></icon>
+  </channel>
+  <channel id="RTENews.ie">
+    <display-name lang="en">RTÉ News</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/RTE-News.png"></icon>
+  </channel>
+  <channel id="RTEOne.ie">
+    <display-name lang="en">RTÉ One</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/rte-one-uk.png"></icon>
+  </channel>
+  <channel id="RTEOnePlus1.ie">
+    <display-name lang="en">RTÉ One+1</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/rte-one-plus-uk.png"></icon>
+  </channel>
+  <channel id="RTEjr.ie">
+    <display-name lang="en">RTÉjr</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/rte-jr-uk.png"></icon>
+  </channel>
+  <channel id="Really.uk">
+    <display-name lang="en">Really</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/really-uk.png"></icon>
+  </channel>
+  <channel id="S4C.uk">
+    <display-name lang="en">S4C</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/s4c-uk.png"></icon>
+  </channel>
+  <channel id="SkyArts.uk">
+    <display-name lang="en">Sky Arts</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Sky-Arts.png"></icon>
+  </channel>
+  <channel id="SkyMix.uk">
+    <display-name lang="en">Sky Mix</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Sky-Mix.png"></icon>
+  </channel>
+  <channel id="SkyNews.uk">
+    <display-name lang="en">Sky News</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-news-uk.png"></icon>
+  </channel>
+  <channel id="SportyStuffTV.uk">
+    <display-name lang="en">SportyStuff</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/SportyStuff-TV.png"></icon>
+  </channel>
+  <channel id="STV.uk">
+    <display-name lang="en">STV</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/stv-uk.png"></icon>
+  </channel>
+  <channel id="STVPlus1.uk">
+    <display-name lang="en">STV+1</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/stv-plus-uk.png"></icon>
+  </channel>
+  <channel id="TalkTV.uk">
+    <display-name lang="en">TalkTV</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/talk-tv-uk.png"></icon>
+  </channel>
+  <channel id="TalkingPicturesTV.uk">
+    <display-name lang="en">Talking Pictures TV</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/talking-pictures-tv-uk.png"></icon>
+  </channel>
+  <channel id="TBNUK.uk">
+    <display-name lang="en">TBN UK</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tbn-uk.png"></icon>
+  </channel>
+  <channel id="ThatsTV.uk">
+    <display-name lang="en">That's TV</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Thats-TV-plain.png"></icon>
+  </channel>
+  <channel id="ThatsTV2.uk">
+    <display-name lang="en">That's TV 2</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Thats-TV-2.png"></icon>
+  </channel>
+  <channel id="Thats60s.uk">
+    <display-name lang="en">That's 60s</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Thats-60s.png"></icon>
+  </channel>
+  <channel id="Thats80s.uk">
+    <display-name lang="en">That's 80s</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Thats-80s.png"></icon>
+  </channel>
+  <channel id="Thats90s.uk">
+    <display-name lang="en">That's 90s</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Thats-90s.png"></icon>
+  </channel>
+  <channel id="TheBoxUK.uk">
+    <display-name lang="en">The Box UK</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/the-box-uk.png"></icon>
+  </channel>
+  <channel id="TinyPop.uk">
+    <display-name lang="en">Tiny Pop</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tiny-pop-uk.png"></icon>
+  </channel>
+  <channel id="TinyPopPlus1.uk">
+    <display-name lang="en">Tiny Pop+1</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tiny-pop-plus-uk.png"></icon>
+  </channel>
+  <channel id="TJC.uk">
+    <display-name lang="en">TJC</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tjc-the-jewellery-channel-uk.png"></icon>
+  </channel>
+  <channel id="TogetherTV.uk">
+    <display-name lang="en">Together TV</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/together-tv-uk.png"></icon>
+  </channel>
+  <channel id="Travelxp.in">
+    <display-name lang="en">Travelxp</display-name>
+    <icon src="https://i.imgur.com/8KQirah.png"></icon>
+  </channel>
+  <channel id="TRTWorld.tr">
+    <display-name lang="en">TRT World</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-world-tr.png"></icon>
+  </channel>
+  <channel id="TrueCrime.uk">
+    <display-name lang="en">True Crime</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/True-Crime-UK.png"></icon>
+  </channel>
+  <channel id="TrueCrimePlus1.uk">
+    <display-name lang="en">True Crime+1</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/True-Crime-%2B1.png"></icon>
+  </channel>
+  <channel id="TrueCrimeXtra.uk">
+    <display-name lang="en">True Crime Xtra</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/True-Crime-Xtra.png"></icon>
+  </channel>
+  <channel id="TVCNews.ng">
+    <display-name lang="en">TVC News</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/TVC-News.png"></icon>
+  </channel>
+  <channel id="UTV.uk">
+    <display-name lang="en">UTV</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/u-tv-uk.png"></icon>
+  </channel>
+  <channel id="W.uk">
+    <display-name lang="en">W</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/w-network-uk.png"></icon>
+  </channel>
+  <channel id="WPlus1.uk">
+    <display-name lang="en">W+1</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/w-network-plus-uk.png"></icon>
+  </channel>
+  <channel id="WION.in">
+    <display-name lang="en">WION</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/wion-in.png"></icon>
+  </channel>
+  <channel id="Yesterday.uk">
+    <display-name lang="en">Yesterday</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/yesterday-uk.png"></icon>
+  </channel>
+  <channel id="YesterdayPlus1.uk">
+    <display-name lang="en">Yesterday+1</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/yesterday-plus-uk.png"></icon>
+  </channel>
+  <channel id="AbsoluteRadio.uk">
+    <display-name lang="en">Absolute Radio</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Absolute-Radio.png"></icon>
+  </channel>
+  <channel id="BBCR1.uk">
+    <display-name lang="en">BBC Radio 1</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-1.png"></icon>
+  </channel>
+  <channel id="BBCR1X.uk">
+    <display-name lang="en">BBC Radio 1 Xtra</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-1Xtra.png"></icon>
+  </channel>
+  <channel id="BBCR2.uk">
+    <display-name lang="en">BBC Radio 2</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-2.png"></icon>
+  </channel>
+  <channel id="BBCR3.uk">
+    <display-name lang="en">BBC Radio 3</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-3.png"></icon>
+  </channel>
+  <channel id="BBCR4EX.uk">
+    <display-name lang="en">BBC Radio 4 Extra</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-4-Extra.png"></icon>
+  </channel>
+  <channel id="BBCR4FM.uk">
+    <display-name lang="en">BBC Radio 4 FM</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-4.png"></icon>
+  </channel>
+  <channel id="BBCR4LW.uk">
+    <display-name lang="en">BBC Radio 4 LW</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-4-LW.png"></icon>
+  </channel>
+  <channel id="BBCR5L.uk">
+    <display-name lang="en">BBC Radio 5 Live</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-5-Live.png"></icon>
+  </channel>
+  <channel id="BBCR5SX.uk">
+    <display-name lang="en">BBC Radio 5 Sports Xtra</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-5-Sports-Extra.png"></icon>
+  </channel>
+  <channel id="BBCR6M.uk">
+    <display-name lang="en">BBC Radio 6 Music</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-6-Music.png"></icon>
+  </channel>
+  <channel id="BBCRAsianNetwork.uk">
+    <display-name lang="en">BBC Asian Network</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Asian-Network.png"></icon>
+  </channel>
+  <channel id="BBCRScotland.uk">
+    <display-name lang="en">BBC Radio Scotland</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Scotland.png"></icon>
+  </channel>
+  <channel id="BBCRUlster.uk">
+    <display-name lang="en">BBC Radio Ulster</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Ulster.png"></icon>
+  </channel>
+  <channel id="BBCRWales.uk">
+    <display-name lang="en">BBC Radio Wales</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Wales.png"></icon>
+  </channel>
+  <channel id="BBCRadioBerkshire.uk">
+    <display-name lang="en">BBC Radio Berkshire</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Berkshire.png"></icon>
+  </channel>
+  <channel id="BBCRadioCymru.uk">
+    <display-name lang="en">BBC Radio Cymru</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Cymru.png"></icon>
+  </channel>
+  <channel id="BBCRadioCymru2.uk">
+    <display-name lang="en">BBC Radio Cymru 2</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Cymru-2.png"></icon>
+  </channel>
+  <channel id="BBCRadioFoyle.uk">
+    <display-name lang="en">BBC Radio Foyle</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Foyle.png"></icon>
+  </channel>
+  <channel id="BBCRadioGaidhael.uk">
+    <display-name lang="en">BBC Radio nan Gaidhael</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-nan-Gaidheal.png"></icon>
+  </channel>
+  <channel id="BBCRadioHumberside.uk">
+    <display-name lang="en">BBC Radio Humberside</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Humberside.png"></icon>
+  </channel>
+  <channel id="BBCRadioLeeds.uk">
+    <display-name lang="en">BBC Radio Leeds</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Leeds.png"></icon>
+  </channel>
+  <channel id="BBCRadioLincolnshire.uk">
+    <display-name lang="en">BBC Radio Lincolnshire</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Lincolnshire.png"></icon>
+  </channel>
+  <channel id="BBCRadioLondon.uk">
+    <display-name lang="en">BBC Radio London</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-London.png"></icon>
+  </channel>
+  <channel id="BBCRadioManchester.uk">
+    <display-name lang="en">BBC Radio Manchester</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Manchester.png"></icon>
+  </channel>
+  <channel id="BBCRadioNewcastle.uk">
+    <display-name lang="en">BBC Radio Newcastle</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Newcastle.png"></icon>
+  </channel>
+  <channel id="BBCRadioSheffield.uk">
+    <display-name lang="en">BBC Radio Sheffield</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Sheffield.png"></icon>
+  </channel>
+  <channel id="BBCRadioSomerset.uk">
+    <display-name lang="en">BBC Radio Somerset</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Somerset.png"></icon>
+  </channel>
+  <channel id="BBCRadioSurrey.uk">
+    <display-name lang="en">BBC Radio Surrey</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Surrey.png"></icon>
+  </channel>
+  <channel id="BBCRadioThreeCounties.uk">
+    <display-name lang="en">BBC Radio Three Counties</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Three-Counties-Radio.png"></icon>
+  </channel>
+  <channel id="BBCRadioYork.uk">
+    <display-name lang="en">BBC Radio York</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-York.png"></icon>
+  </channel>
+  <channel id="BBCWorldService.uk">
+    <display-name lang="en">BBC World Service</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-World-Service.png"></icon>
+  </channel>
+  <channel id="BFBSRadio.uk">
+    <display-name lang="en">BFBS Radio</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BFBS-Radio.png"></icon>
+  </channel>
+  <channel id="CapitalRadio.uk">
+    <display-name lang="en">Capital</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Capital.png"></icon>
+  </channel>
+  <channel id="CapitalXtra.uk">
+    <display-name lang="en">Capital Xtra</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Capital-Xtra.png"></icon>
+  </channel>
+  <channel id="ClassicFM.uk">
+    <display-name lang="en">Classic FM</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Classic-FM.png"></icon>
+  </channel>
+  <channel id="GoldRadio.uk">
+    <display-name lang="en">Gold</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Gold-Radio.png"></icon>
+  </channel>
+  <channel id="GreatestHitsRadio.uk">
+    <display-name lang="en">Greatest Hits Radio</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Greatest-Hits-Radio.png"></icon>
+  </channel>
+  <channel id="Heart80s.uk">
+    <display-name lang="en">Heart 80s</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Heart-80s.png"></icon>
+  </channel>
+  <channel id="Heart90s.uk">
+    <display-name lang="en">Heart 90s</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Heart-90s.png"></icon>
+  </channel>
+  <channel id="HeartDance.uk">
+    <display-name lang="en">Heart Dance</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Heart-Dance.png"></icon>
+  </channel>
+  <channel id="HeartRadio.uk">
+    <display-name lang="en">Heart Radio</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Heart.png"></icon>
+  </channel>
+  <channel id="HitsRadio.uk">
+    <display-name lang="en">Hits Radio</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Hits-Radio.png"></icon>
+  </channel>
+  <channel id="KerrangRadio.uk">
+    <display-name lang="en">Kerrang! Radio</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Kerrang-Radio.png"></icon>
+  </channel>
+  <channel id="KissFreshRadio.uk">
+    <display-name lang="en">Kiss Fresh</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Kiss-Fresh.png"></icon>
+  </channel>
+  <channel id="KissRadio.uk">
+    <display-name lang="en">Kiss Radio</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Kiss.png"></icon>
+  </channel>
+  <channel id="KisstoryRadio.uk">
+    <display-name lang="en">Kisstory</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Kisstory.png"></icon>
+  </channel>
+  <channel id="LBCNews.uk">
+    <display-name lang="en">LBC News</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/LBC-News.png"></icon>
+  </channel>
+  <channel id="LBCRadio.uk">
+    <display-name lang="en">LBC</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/LBC.png"></icon>
+  </channel>
+  <channel id="MagicRadio.uk">
+    <display-name lang="en">Magic Radio</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Magic-Radio.png"></icon>
+  </channel>
+  <channel id="RadioX.uk">
+    <display-name lang="en">Radio X</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Radio-X.png"></icon>
+  </channel>
+  <channel id="SmoothRadio.uk">
+    <display-name lang="en">Smooth Radio</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Smooth-Radio.png"></icon>
+  </channel>
+  <channel id="TalkSport.uk">
+    <display-name lang="en">talkSPORT</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Talksport.png"></icon>
+  </channel>
+  <channel id="VirginRadio.uk">
+    <display-name lang="en">Virgin Radio</display-name>
+    <icon src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Virgin-Radio-UK.png"></icon>
+  </channel>
     <source-info>
         <source-info url="https://xmltv.tvkaista.net/guides/abc.net.au.xml"/>
         <source-info url="https://xmltv.tvkaista.net/guides/allente.dk.xml"/>
