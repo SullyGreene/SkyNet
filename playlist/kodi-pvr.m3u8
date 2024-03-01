@@ -4,7 +4,7 @@ https://raw.githubusercontent.com/SullyGreene/SkyNet/main/channels/C/001/BBC1ipl
 #EXTINF:-1 tvg-chno="2" tvg-id="BBCTwoEngland.uk"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png"group-title="Undefined":http-referrer="":http-user-agent="",BBC Two England
 plugin://plugin.video.iplayerwww/?url=bbc_two_england&mode=203&name=BBC+Two&iconimage=resource%3A%2F%2Fresource.images.iplayerwww%2Fmedia%2Fbbc_two_england.png&description=&subtitles_url=&time=1709158761.7293212
 #EXTINF:-1 tvg-chno="3" tvg-name="ITV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/640px-ITV1_logo_%282022%29.svg.png" tvg-id="ITV1.uk" group-title="UK",ITV 1 GB
-http://92.114.85.81:8000/play/a00y/index.m3u8
+plugin://plugin.video.hdhomerun.simple/play/12420815/live/103
 #EXTINF:-1 tvg-chno="4" tvg-name="Channel 4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Channel_4_%28On_Demand%29_2023.svg/569px-Channel_4_%28On_Demand%29_2023.svg.png" tvg-id="Channel4.uk" group-title="UK",Channel 4 GB
 http://92.114.85.77:8000/play/a0b9
 #EXTINF:-1 tvg-chno="6" tvg-name="S4C Ⓖ" tvg-logo="https://i.imgur.com/vrcbnBv.png" tvg-id="S4C.uk" group-title="UK",S4C Wales
