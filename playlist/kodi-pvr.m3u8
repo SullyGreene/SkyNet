@@ -1,7 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-chno="1" tvg-id="BBCOne.uk"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png"group-title="General":http-referrer="":http-user-agent="",BBC One HD (720p) [Geo-blocked]
-https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_hd/iptv_hd_abr_v1.mpd
-
+https://raw.githubusercontent.com/SullyGreene/SkyNet/main/channels/C/001/BBC1HDHomeRun.m3u8,https://raw.githubusercontent.com/SullyGreene/SkyNet/main/channels/C/001/BBC1iplayer.m3u,https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_hd/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-chno="2" tvg-id="BBCTwoEngland.uk"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png"group-title="Undefined":http-referrer="":http-user-agent="",BBC Two HD (720p) [Geo-blocked]
+https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="2GB.au"tvg-logo="https://i.ibb.co/jwM8DFG/2GB-1.png"group-title="News":http-referrer="":http-user-agent="",2GB Sydney (1080p)
 https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
 #EXTINF:-1 tvg-id="3ABNProclaimNetwork.us"tvg-logo="https://i.imgur.com/VoC9vr1.png"group-title="Religious":http-referrer="":http-user-agent="",3ABN Proclaim! Network (720p)
