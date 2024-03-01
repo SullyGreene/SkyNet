@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv>
+<tv generator-info-name="freeview-epg" generator-info-url="https://github.com/dp247/Freeview-EPG">
   <channel id="4Music.uk">
     <display-name lang="en">4Music</display-name>
     <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/4-music-uk.png"></icon>
