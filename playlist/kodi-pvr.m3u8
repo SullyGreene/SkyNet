@@ -12,7 +12,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=4770e29f80797cf43f475b535d0490f5a500c
 #EXTINF:-1 tvg-chno="5" tvg-name="Channel 5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Channel_5_%28UK%29_2016.svg/530px-Channel_5_%28UK%29_2016.svg.png" tvg-id="Channel5.uk" group-title="UK",Channel 5 GB
 http://92.114.85.81:8000/play/a01g/index.m3u8
 #EXTINF:-1 tvg-chno="0053" tvg-name="TG4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TG4_logo.svg/1024px-TG4_logo.svg.png" tvg-id="TG4.ie" group-title="Ireland",TG4 Ireland
-https://raw.githubusercontent.com/SullyGreene/SkyNet/main/channels/C/053/TG4.m3u8
+https://bit.ly/48E8KlC
 #EXTINF:-1 tvg-name="Houses of the Oireachtas Channel" tvg-logo="https://i.imgur.com/aC4fsCI.png" tvg-id="OireachtasTV.ie" group-title="Ireland",Houses of the Oireachtas Channel Ireland
 https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8
 #EXTINF:-1 tvg-name="ITV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/ITV2_logo_2022.svg/640px-ITV2_logo_2022.svg.png" tvg-id="ITV2.uk" group-title="UK",ITV 2
