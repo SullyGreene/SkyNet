@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="BBCOne.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="General", BBC One
-https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_hd/t=3840/v=pv14/b=5070016/main.m3u8, https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_hd/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-chno="1fallback" tvg-id="BBCOneFallback.uk" tvg-logo="https://example.com/fallback_logo.png" group-title="General", BBC One - Offline Notification
-https://sample-videos.com/video321/mp4/720/big_buck_bunny_720p_1mb.mp4
+#EXTINF:-1, BBC One London
+https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_hd/t=3840/v=pv14/b=5070016/main.m3u8
