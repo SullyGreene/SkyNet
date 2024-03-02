@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-chno="1" tvg-id="BBCOneLondonHD.uk"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png"group-title="General":http-referrer="":http-user-agent="",BBC One England
-https://raw.githubusercontent.com/SullyGreene/SkyNet/main/channels/C/001/BBCOneLondon_iptv.m3u
+https://raw.githubusercontent.com/SullyGreene/SkyNet/main/channels/C/001/BBCOneLondon_iptv.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-id="BBCTwoHD.uk"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png"group-title="Undefined":http-referrer="":http-user-agent="",BBC Two England
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-name="ITV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/640px-ITV1_logo_%282022%29.svg.png" tvg-id="ITV1.uk" group-title="UK",ITV 1 GB
