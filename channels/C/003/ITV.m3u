@@ -1,3 +1,0 @@
-#M3U
-#EXTINF:-1 tvg-chno="3" tvg-name="ITV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/640px-ITV1_logo_%282022%29.svg.png" tvg-id="ITV1.uk" group-title="UK",ITV 1
-http://92.114.85.81:8000/play/a00y/index.m3u8

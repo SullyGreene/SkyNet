@@ -1,3 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-chno="2" tvg-id="BBCTwoHD.uk"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png"group-title="Undefined":http-referrer="":http-user-agent="",BBC Two HD
-https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
