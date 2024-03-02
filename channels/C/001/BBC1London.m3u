@@ -1,3 +1,9 @@
-#M3U
-#EXTINF:-1 tvg-chno="1" tvg-id="BBCOne.uk"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png"group-title="General":http-referrer="":http-user-agent="",BBC One
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="1" tvg-id="BBCOne.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png" group-title="General", BBC One
 plugin://plugin.video.iplayerwww/?url=bbc_one_london&mode=203&name=BBC+One+London&iconimage=resource%3A%2F%2Fresource.images.iplayerwww%2Fmedia%2Fbbc_one_london.png&description=&subtitles_url=&time=1709158761.769162
+
+
+#EXTINF:-1 tvg-chno="1" tvg-id="BBCOne.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="General", BBC One
+https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_hd/iptv_hd_abr_v1.mpd
+
